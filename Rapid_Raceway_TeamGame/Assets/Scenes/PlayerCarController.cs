@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class PlayerCarController : MonoBehaviour
 {
-    private float speed = 20f;
-    private float turnSpeed = 45.0f;
+    private float speed = 17f;
+    private float turnSpeed = 42f;
     private float horizontalInput;
     private float forwardInput;
 
