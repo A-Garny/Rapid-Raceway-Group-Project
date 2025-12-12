@@ -4,6 +4,7 @@ public class PlayerCarController : MonoBehaviour
 {
     private Rigidbody playerCarRb;
     public GameObject cpuTrack;
+    private GameManager gameManager;
     private float speed = 17f;
     private float turnSpeed = 42f;
     private float horizontalInput;
@@ -18,6 +19,7 @@ public class PlayerCarController : MonoBehaviour
     {
         playerCarRb = GetComponent<Rigidbody>();
         Physics.gravity *= gravityMod;
+        gameManager = GameObject.Find("Game Manager").GetComponent<GameManager>();
     }
 
     // Update is called once per frame
@@ -58,6 +60,8 @@ public class PlayerCarController : MonoBehaviour
             // Eliminates the CPU's track when you win
             cpuTrack.gameObject.SetActive(false);
             speed = 0;
+            // Displays "You Win" and lets you restart
+            gameManager.YouWin();
         }
     }
 
