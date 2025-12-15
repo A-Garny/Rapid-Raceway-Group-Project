@@ -5,8 +5,11 @@ public class PlayerCarController : MonoBehaviour
     private Rigidbody playerCarRb;
     public GameObject cpuTrack;
     private GameManager gameManager;
+    private ComputerCarController computerCarController;
     private float speed = 17f;
     private float turnSpeed = 42f;
+    public float bottomBound = -10.0f;
+    public float bottomBound2 = -225.0f;
     private float horizontalInput;
     private float forwardInput;
     public float jumpPower = 10.0f;
@@ -17,6 +20,7 @@ public class PlayerCarController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        computerCarController= GameObject.Find("ComputerCar").GetComponent<ComputerCarController>();
         playerCarRb = GetComponent<Rigidbody>();
         Physics.gravity *= gravityMod;
         gameManager = GameObject.Find("Game Manager").GetComponent<GameManager>();
@@ -39,6 +43,19 @@ public class PlayerCarController : MonoBehaviour
         transform.Translate(Vector3.forward * Time.deltaTime * speed * forwardInput);
         // Rotates the car based on horizontal input
         transform.Rotate(Vector3.up, Time.deltaTime * turnSpeed * horizontalInput);
+
+        // you lose the game if you fall off the road
+        if (transform.position.y < bottomBound)
+        {
+            gameManager.GameOver();
+        }
+
+        // destroys your car if you fall too far off screen
+        if (transform.position.y < bottomBound2)
+        {
+            Destroy(gameObject);
+        }
+
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -57,12 +74,20 @@ public class PlayerCarController : MonoBehaviour
         {
             // Makes you win if you cross the finish line
             Debug.Log("You Win");
-            // Eliminates the CPU's track when you win
-            cpuTrack.gameObject.SetActive(false);
             speed = 0;
+            computerCarController.hasLost = true;
             // Displays "You Win" and lets you restart
             gameManager.YouWin();
         }
+
+        if (other.gameObject.CompareTag("GameOverRestart"))
+        {
+            //makes you lose the game if you hit the cpu track
+            Debug.Log("Game Over");
+            speed = 0;
+            gameManager.GameOver();
+        }
+
     }
 
 }

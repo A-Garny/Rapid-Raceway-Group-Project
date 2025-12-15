@@ -3,8 +3,10 @@ using UnityEngine;
 public class ComputerCarController : MonoBehaviour
 {
     public float cpuSpeed = 14.0f;
+    public bool hasLost = false;
     public GameObject playerTrack;
     private GameManager gameManager;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,6 +18,13 @@ public class ComputerCarController : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.forward * Time.deltaTime * cpuSpeed);
+
+        // stops the cpu car if you've already won
+        if (hasLost)
+        {
+            cpuSpeed = 0.0f;
+        }
+
     }
 
     private void OnTriggerEnter(Collider other)
