@@ -5,19 +5,15 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject restartButton;
     public Button restartButtonAction;
     public TextMeshProUGUI gameOverText;
     public TextMeshProUGUI youWinText;
-    private GameObject gameArea;
-    private GameObject titleScreen;
+    public GameObject gameArea;
+    public GameObject titleScreen;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        restartButton = GameObject.Find("Restart Button");
-        restartButtonAction = restartButton.GetComponent<Button>();
-        gameArea = GameObject.Find("Game Area");
-        titleScreen = GameObject.Find("Title Screen");
+        
     }
 
     // Update is called once per frame
@@ -35,13 +31,13 @@ public class GameManager : MonoBehaviour
     public void GameOver()
     {
         gameOverText.gameObject.SetActive(true);
-        restartButton.gameObject.SetActive(true);
+        restartButtonAction.gameObject.SetActive(true);
     }
 
     public void YouWin()
     {
         youWinText.gameObject.SetActive(true);
-        restartButton.gameObject.SetActive(true);
+        restartButtonAction.gameObject.SetActive(true);
     }
 
     public void RestartGame()
