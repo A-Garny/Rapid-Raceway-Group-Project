@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 11231888}
   - component: {fileID: 11231889}
   m_Layer: 0
-  m_Name: RC_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -826,7 +826,7 @@ GameObject:
   - component: {fileID: 54692608}
   - component: {fileID: 54692609}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1077,7 +1077,7 @@ GameObject:
   - component: {fileID: 66861173}
   - component: {fileID: 66861174}
   m_Layer: 0
-  m_Name: RC_Road_Box11
+  m_Name: Box11
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1244,7 +1244,7 @@ GameObject:
   - component: {fileID: 75329196}
   - component: {fileID: 75329195}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1357,7 +1357,7 @@ GameObject:
   - component: {fileID: 77157188}
   - component: {fileID: 77157187}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1655,7 +1655,7 @@ GameObject:
   - component: {fileID: 95368697}
   - component: {fileID: 95368696}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1765,7 +1765,7 @@ GameObject:
   - component: {fileID: 98416563}
   - component: {fileID: 98416564}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2403,7 +2403,7 @@ GameObject:
   - component: {fileID: 136067206}
   - component: {fileID: 136067205}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2536,7 +2536,7 @@ GameObject:
   - component: {fileID: 138516148}
   - component: {fileID: 138516147}
   m_Layer: 0
-  m_Name: RRS1_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2972,7 +2972,7 @@ GameObject:
   - component: {fileID: 152453592}
   - component: {fileID: 152453591}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3085,7 +3085,7 @@ GameObject:
   - component: {fileID: 157143823}
   - component: {fileID: 157143822}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3217,7 +3217,7 @@ GameObject:
   - component: {fileID: 162507715}
   - component: {fileID: 162507714}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3292,7 +3292,7 @@ GameObject:
   - component: {fileID: 167515167}
   - component: {fileID: 167515168}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3457,7 +3457,7 @@ GameObject:
   - component: {fileID: 178955957}
   - component: {fileID: 178955958}
   m_Layer: 0
-  m_Name: RC_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3966,7 +3966,7 @@ GameObject:
   - component: {fileID: 239179387}
   - component: {fileID: 239179388}
   m_Layer: 0
-  m_Name: RC_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4019,7 +4019,7 @@ GameObject:
   - component: {fileID: 241349742}
   - component: {fileID: 241349743}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4197,7 +4197,7 @@ GameObject:
   - component: {fileID: 266501964}
   - component: {fileID: 266501965}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4456,7 +4456,7 @@ GameObject:
   - component: {fileID: 305146387}
   - component: {fileID: 305146386}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4838,7 +4838,7 @@ GameObject:
   - component: {fileID: 316657797}
   - component: {fileID: 316657798}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5318,7 +5318,7 @@ GameObject:
   - component: {fileID: 371771085}
   - component: {fileID: 371771086}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5565,7 +5565,7 @@ GameObject:
   - component: {fileID: 403251308}
   - component: {fileID: 403251309}
   m_Layer: 0
-  m_Name: RC_Road_Box9
+  m_Name: Box9
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5779,7 +5779,7 @@ GameObject:
   - component: {fileID: 419515601}
   - component: {fileID: 419515602}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5885,7 +5885,7 @@ GameObject:
   - component: {fileID: 428055171}
   - component: {fileID: 428055172}
   m_Layer: 0
-  m_Name: CCT_RoadStraight_1
+  m_Name: Road Straight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5950,7 +5950,7 @@ GameObject:
   - component: {fileID: 428440054}
   - component: {fileID: 428440053}
   m_Layer: 0
-  m_Name: RRS1_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6284,7 +6284,7 @@ GameObject:
   - component: {fileID: 469292797}
   - component: {fileID: 469292798}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7249,7 +7249,7 @@ GameObject:
   - component: {fileID: 549424851}
   - component: {fileID: 549424850}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7583,7 +7583,7 @@ GameObject:
   - component: {fileID: 575523390}
   - component: {fileID: 575523389}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8345,7 +8345,7 @@ GameObject:
   - component: {fileID: 617796241}
   - component: {fileID: 617796242}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8781,7 +8781,7 @@ GameObject:
   - component: {fileID: 644157379}
   - component: {fileID: 644157380}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9176,7 +9176,7 @@ GameObject:
   - component: {fileID: 668580187}
   - component: {fileID: 668580186}
   m_Layer: 0
-  m_Name: RRS1_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9288,7 +9288,7 @@ GameObject:
   - component: {fileID: 676510873}
   - component: {fileID: 676510872}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10087,7 +10087,7 @@ GameObject:
   - component: {fileID: 710765573}
   - component: {fileID: 710765574}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10140,7 +10140,7 @@ GameObject:
   - component: {fileID: 711981049}
   - component: {fileID: 711981050}
   m_Layer: 0
-  m_Name: RC_Road_Box12
+  m_Name: Box12
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10420,7 +10420,7 @@ GameObject:
   - component: {fileID: 716808720}
   - component: {fileID: 716808719}
   m_Layer: 0
-  m_Name: RES_Road
+  m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10726,7 +10726,7 @@ GameObject:
   - component: {fileID: 722746664}
   - component: {fileID: 722746665}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10780,7 +10780,7 @@ GameObject:
   - component: {fileID: 730136696}
   - component: {fileID: 730136695}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11171,7 +11171,7 @@ GameObject:
   - component: {fileID: 761548606}
   - component: {fileID: 761548607}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11490,7 +11490,7 @@ GameObject:
   - component: {fileID: 774174858}
   - component: {fileID: 774174857}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11715,7 +11715,7 @@ GameObject:
   - component: {fileID: 776234095}
   - component: {fileID: 776234094}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11848,7 +11848,7 @@ GameObject:
   - component: {fileID: 777000441}
   - component: {fileID: 777000440}
   m_Layer: 0
-  m_Name: RRS1_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12132,7 +12132,7 @@ GameObject:
   - component: {fileID: 791486896}
   - component: {fileID: 791486897}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12185,7 +12185,7 @@ GameObject:
   - component: {fileID: 797978008}
   - component: {fileID: 797978009}
   m_Layer: 0
-  m_Name: RC_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12238,7 +12238,7 @@ GameObject:
   - component: {fileID: 798628582}
   - component: {fileID: 798628583}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12492,7 +12492,7 @@ GameObject:
   - component: {fileID: 817818720}
   - component: {fileID: 817818719}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12784,7 +12784,7 @@ GameObject:
   - component: {fileID: 833676875}
   - component: {fileID: 833676876}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12953,7 +12953,7 @@ GameObject:
   - component: {fileID: 854355449}
   - component: {fileID: 854355450}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13119,7 +13119,7 @@ GameObject:
   - component: {fileID: 867756240}
   - component: {fileID: 867756239}
   m_Layer: 0
-  m_Name: RC_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13610,7 +13610,7 @@ GameObject:
   - component: {fileID: 890416809}
   - component: {fileID: 890416810}
   m_Layer: 0
-  m_Name: RC_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14226,7 +14226,7 @@ GameObject:
   - component: {fileID: 944531835}
   - component: {fileID: 944531834}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14455,7 +14455,7 @@ GameObject:
   - component: {fileID: 971692106}
   - component: {fileID: 971692107}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15046,7 +15046,7 @@ GameObject:
   - component: {fileID: 1029387230}
   - component: {fileID: 1029387231}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15099,7 +15099,7 @@ GameObject:
   - component: {fileID: 1031302181}
   - component: {fileID: 1031302182}
   m_Layer: 0
-  m_Name: RRS1_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15152,7 +15152,7 @@ GameObject:
   - component: {fileID: 1046499919}
   - component: {fileID: 1046499920}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15223,8 +15223,8 @@ Transform:
   m_GameObject: {fileID: 1049826946}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -61.8045, y: 2.59, z: 631.94116}
-  m_LocalScale: {x: 13, y: 1, z: 0.25}
+  m_LocalPosition: {x: -23.61, y: 1.32, z: 1206.33}
+  m_LocalScale: {x: 15.583099, y: 0.31273276, z: 0.07496}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1815896674}
@@ -15344,7 +15344,7 @@ GameObject:
   - component: {fileID: 1065532988}
   - component: {fileID: 1065532989}
   m_Layer: 0
-  m_Name: RC_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15397,7 +15397,7 @@ GameObject:
   - component: {fileID: 1065928913}
   - component: {fileID: 1065928914}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15484,7 +15484,7 @@ GameObject:
   - component: {fileID: 1069661355}
   - component: {fileID: 1069661356}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16183,7 +16183,7 @@ GameObject:
   - component: {fileID: 1117822981}
   - component: {fileID: 1117822982}
   m_Layer: 0
-  m_Name: RC_Road_Box10
+  m_Name: Box10
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16289,7 +16289,7 @@ GameObject:
   - component: {fileID: 1132824695}
   - component: {fileID: 1132824696}
   m_Layer: 0
-  m_Name: RC_Road_Box12
+  m_Name: Box12
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16482,7 +16482,7 @@ GameObject:
   - component: {fileID: 1145430399}
   - component: {fileID: 1145430398}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17304,7 +17304,7 @@ GameObject:
   - component: {fileID: 1191715337}
   - component: {fileID: 1191715338}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17357,7 +17357,7 @@ GameObject:
   - component: {fileID: 1212104868}
   - component: {fileID: 1212104869}
   m_Layer: 0
-  m_Name: RC_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17847,7 +17847,7 @@ GameObject:
   - component: {fileID: 1232692508}
   - component: {fileID: 1232692509}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17900,7 +17900,7 @@ GameObject:
   - component: {fileID: 1235398192}
   - component: {fileID: 1235398193}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18015,7 +18015,7 @@ GameObject:
   - component: {fileID: 1261520283}
   - component: {fileID: 1261520284}
   m_Layer: 0
-  m_Name: RC_Road_Box14
+  m_Name: Box14
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18124,7 +18124,7 @@ GameObject:
   - component: {fileID: 1268630890}
   - component: {fileID: 1268630889}
   m_Layer: 0
-  m_Name: RES_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18367,7 +18367,7 @@ GameObject:
   - component: {fileID: 1280177053}
   - component: {fileID: 1280177054}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18473,7 +18473,7 @@ GameObject:
   - component: {fileID: 1305317258}
   - component: {fileID: 1305317259}
   m_Layer: 0
-  m_Name: RC_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18526,7 +18526,7 @@ GameObject:
   - component: {fileID: 1321208767}
   - component: {fileID: 1321208768}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19140,7 +19140,7 @@ GameObject:
   - component: {fileID: 1359021545}
   - component: {fileID: 1359021546}
   m_Layer: 0
-  m_Name: RC_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19193,7 +19193,7 @@ GameObject:
   - component: {fileID: 1366297267}
   - component: {fileID: 1366297268}
   m_Layer: 0
-  m_Name: RC_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19361,7 +19361,7 @@ GameObject:
   - component: {fileID: 1383248236}
   - component: {fileID: 1383248235}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19493,7 +19493,7 @@ GameObject:
   - component: {fileID: 1385765595}
   - component: {fileID: 1385765594}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19581,7 +19581,7 @@ GameObject:
   - component: {fileID: 1387174148}
   - component: {fileID: 1387174149}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19835,7 +19835,7 @@ GameObject:
   - component: {fileID: 1398372014}
   - component: {fileID: 1398372015}
   m_Layer: 0
-  m_Name: RC_Road_Box11
+  m_Name: Box11
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20142,7 +20142,7 @@ GameObject:
   - component: {fileID: 1458238558}
   - component: {fileID: 1458238559}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20543,7 +20543,7 @@ GameObject:
   - component: {fileID: 1499372969}
   - component: {fileID: 1499372970}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21689,7 +21689,7 @@ GameObject:
   - component: {fileID: 1553261409}
   - component: {fileID: 1553261410}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21907,7 +21907,7 @@ GameObject:
   - component: {fileID: 1569501243}
   - component: {fileID: 1569501244}
   m_Layer: 0
-  m_Name: RC_Road_Box13
+  m_Name: Box13
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21960,7 +21960,7 @@ GameObject:
   - component: {fileID: 1581824460}
   - component: {fileID: 1581824461}
   m_Layer: 0
-  m_Name: RRS1_Road_Box6
+  m_Name: Box6
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22125,7 +22125,7 @@ GameObject:
   - component: {fileID: 1589841775}
   - component: {fileID: 1589841776}
   m_Layer: 0
-  m_Name: RC_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22179,7 +22179,7 @@ GameObject:
   - component: {fileID: 1591269258}
   - component: {fileID: 1591269257}
   m_Layer: 0
-  m_Name: RC_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22281,7 +22281,7 @@ GameObject:
   - component: {fileID: 1594089467}
   - component: {fileID: 1594089468}
   m_Layer: 0
-  m_Name: RRS1_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22479,7 +22479,7 @@ GameObject:
   - component: {fileID: 1595446230}
   - component: {fileID: 1595446229}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23048,7 +23048,7 @@ GameObject:
   - component: {fileID: 1655578182}
   - component: {fileID: 1655578181}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23242,7 +23242,7 @@ GameObject:
   - component: {fileID: 1676854288}
   - component: {fileID: 1676854289}
   m_Layer: 0
-  m_Name: Box_Collider1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23767,7 +23767,7 @@ GameObject:
   - component: {fileID: 1746277585}
   - component: {fileID: 1746277584}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24340,7 +24340,7 @@ GameObject:
   - component: {fileID: 1782219800}
   - component: {fileID: 1782219801}
   m_Layer: 0
-  m_Name: RC_Road_Box10
+  m_Name: Box10
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24393,7 +24393,7 @@ GameObject:
   - component: {fileID: 1782362249}
   - component: {fileID: 1782362250}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box9
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24446,7 +24446,7 @@ GameObject:
   - component: {fileID: 1789510536}
   - component: {fileID: 1789510537}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24779,7 +24779,7 @@ GameObject:
   - component: {fileID: 1801040746}
   - component: {fileID: 1801040747}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25077,7 +25077,7 @@ GameObject:
   - component: {fileID: 1815012650}
   - component: {fileID: 1815012649}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25531,7 +25531,7 @@ GameObject:
   - component: {fileID: 1833168980}
   - component: {fileID: 1833168981}
   m_Layer: 0
-  m_Name: RC_Road_Box13
+  m_Name: Box13
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25649,7 +25649,7 @@ GameObject:
   - component: {fileID: 1843188983}
   - component: {fileID: 1843188982}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25844,7 +25844,7 @@ GameObject:
   - component: {fileID: 1854099204}
   - component: {fileID: 1854099203}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25985,7 +25985,7 @@ GameObject:
   - component: {fileID: 1861617380}
   - component: {fileID: 1861617381}
   m_Layer: 0
-  m_Name: RC_Road_Box2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26152,7 +26152,7 @@ GameObject:
   - component: {fileID: 1875449452}
   - component: {fileID: 1875449451}
   m_Layer: 0
-  m_Name: RRS2_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26262,7 +26262,7 @@ GameObject:
   - component: {fileID: 1876173156}
   - component: {fileID: 1876173157}
   m_Layer: 0
-  m_Name: RC_Road_Box7
+  m_Name: Box7
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26316,7 +26316,7 @@ GameObject:
   - component: {fileID: 1884295523}
   - component: {fileID: 1884295522}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26391,7 +26391,7 @@ GameObject:
   - component: {fileID: 1888041588}
   - component: {fileID: 1888041589}
   m_Layer: 0
-  m_Name: RC_Road_Box14
+  m_Name: Box14
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26444,7 +26444,7 @@ GameObject:
   - component: {fileID: 1888583093}
   - component: {fileID: 1888583094}
   m_Layer: 0
-  m_Name: RC_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26576,7 +26576,7 @@ GameObject:
   - component: {fileID: 1904805992}
   - component: {fileID: 1904805991}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26651,7 +26651,7 @@ GameObject:
   - component: {fileID: 1905477204}
   - component: {fileID: 1905477205}
   m_Layer: 0
-  m_Name: RC_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26766,7 +26766,7 @@ GameObject:
   - component: {fileID: 1913153245}
   - component: {fileID: 1913153246}
   m_Layer: 0
-  m_Name: RRS1_Road_Box4
+  m_Name: Box4
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26973,7 +26973,7 @@ GameObject:
   - component: {fileID: 1936083282}
   - component: {fileID: 1936083281}
   m_Layer: 0
-  m_Name: RS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27627,7 +27627,7 @@ GameObject:
   - component: {fileID: 1957498032}
   - component: {fileID: 1957498033}
   m_Layer: 0
-  m_Name: RRS1_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27993,7 +27993,7 @@ GameObject:
   - component: {fileID: 1970036975}
   - component: {fileID: 1970036976}
   m_Layer: 0
-  m_Name: RRS1_Road_Box5
+  m_Name: Box5
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28047,7 +28047,7 @@ GameObject:
   - component: {fileID: 1971382370}
   - component: {fileID: 1971382369}
   m_Layer: 0
-  m_Name: RRS1_Road_Box1
+  m_Name: Box1
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28298,7 +28298,7 @@ GameObject:
   - component: {fileID: 1988890224}
   - component: {fileID: 1988890223}
   m_Layer: 0
-  m_Name: RRS1_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28461,7 +28461,7 @@ GameObject:
   - component: {fileID: 1998067782}
   - component: {fileID: 1998067783}
   m_Layer: 0
-  m_Name: Box_Collider2
+  m_Name: Box2
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28759,7 +28759,7 @@ GameObject:
   - component: {fileID: 2007026981}
   - component: {fileID: 2007026982}
   m_Layer: 0
-  m_Name: RC_Road_Box8
+  m_Name: Box8
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29490,7 +29490,7 @@ GameObject:
   - component: {fileID: 2056639755}
   - component: {fileID: 2056639756}
   m_Layer: 0
-  m_Name: RC_Road_Box9
+  m_Name: Box9
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29660,7 +29660,7 @@ GameObject:
   - component: {fileID: 2098923738}
   - component: {fileID: 2098923737}
   m_Layer: 0
-  m_Name: RCS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29750,7 +29750,7 @@ GameObject:
   - component: {fileID: 2101305659}
   - component: {fileID: 2101305658}
   m_Layer: 0
-  m_Name: RBS_Road
+  m_Name: Road
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30088,7 +30088,7 @@ GameObject:
   - component: {fileID: 2145621562}
   - component: {fileID: 2145621563}
   m_Layer: 0
-  m_Name: RRS1_Road_Box3
+  m_Name: Box3
   m_TagString: Road
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
