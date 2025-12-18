@@ -6419,7 +6419,6 @@ GameObject:
   - component: {fileID: 494828979}
   - component: {fileID: 494828983}
   - component: {fileID: 494828982}
-  - component: {fileID: 494828981}
   - component: {fileID: 494828980}
   m_Layer: 0
   m_Name: Road
@@ -6464,28 +6463,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 7.959881, y: 0.28144932, z: 13.992447}
   m_Center: {x: 1.960722, y: 0.0035977364, z: -1.0107346}
---- !u!64 &494828981
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 494828978}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -8634060567236447461, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &494828982
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9856,7 +9833,6 @@ GameObject:
   - component: {fileID: 718364712}
   - component: {fileID: 718364715}
   - component: {fileID: 718364714}
-  - component: {fileID: 718364713}
   m_Layer: 0
   m_Name: Sidewalk
   m_TagString: Road
@@ -9879,28 +9855,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1983976976}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &718364713
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 718364711}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4535594853785956779, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &718364714
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10793,7 +10747,6 @@ GameObject:
   - component: {fileID: 774174856}
   - component: {fileID: 774174859}
   - component: {fileID: 774174858}
-  - component: {fileID: 774174857}
   m_Layer: 0
   m_Name: Road
   m_TagString: Road
@@ -10816,28 +10769,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1547227309}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &774174857
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 774174855}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -8634060567236447461, guid: 35f824907a3aa5149951f57c17d23e83, type: 3}
 --- !u!23 &774174858
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14559,7 +14490,6 @@ GameObject:
   - component: {fileID: 1076367197}
   - component: {fileID: 1076367200}
   - component: {fileID: 1076367199}
-  - component: {fileID: 1076367198}
   m_Layer: 0
   m_Name: Extra Sidewalk
   m_TagString: Road
@@ -14582,28 +14512,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1983976976}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1076367198
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1076367196}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3802287317836583566, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &1076367199
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16071,7 +15979,6 @@ GameObject:
   - component: {fileID: 1181668716}
   - component: {fileID: 1181668719}
   - component: {fileID: 1181668718}
-  - component: {fileID: 1181668717}
   m_Layer: 0
   m_Name: Sidewalk
   m_TagString: Road
@@ -16094,28 +16001,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 583090562}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1181668717
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1181668715}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4535594853785956779, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &1181668718
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17067,7 +16952,6 @@ GameObject:
   - component: {fileID: 1268630888}
   - component: {fileID: 1268630892}
   - component: {fileID: 1268630891}
-  - component: {fileID: 1268630890}
   - component: {fileID: 1268630889}
   m_Layer: 0
   m_Name: Road
@@ -17112,28 +16996,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 7.959881, y: 0.28144932, z: 13.979961}
   m_Center: {x: 1.960722, y: 0.0035977364, z: -1.0044918}
---- !u!64 &1268630890
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1268630887}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -8634060567236447461, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &1268630891
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19890,7 +19752,6 @@ GameObject:
   - component: {fileID: 1524900995}
   - component: {fileID: 1524900998}
   - component: {fileID: 1524900997}
-  - component: {fileID: 1524900996}
   m_Layer: 0
   m_Name: Sidewalk 1
   m_TagString: Road
@@ -19913,28 +19774,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2101305657}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1524900996
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1524900994}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 2595367422791656898, guid: 0b54b4d44f577474fb5a4bd8afd6c4da, type: 3}
 --- !u!23 &1524900997
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20829,7 +20668,6 @@ GameObject:
   - component: {fileID: 1589458977}
   - component: {fileID: 1589458980}
   - component: {fileID: 1589458979}
-  - component: {fileID: 1589458978}
   m_Layer: 0
   m_Name: Extra Sidewalk
   m_TagString: Road
@@ -20852,28 +20690,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2101305657}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1589458978
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1589458976}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3802287317836583566, guid: 0b54b4d44f577474fb5a4bd8afd6c4da, type: 3}
 --- !u!23 &1589458979
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21649,7 +21465,6 @@ GameObject:
   - component: {fileID: 1634027013}
   - component: {fileID: 1634027016}
   - component: {fileID: 1634027015}
-  - component: {fileID: 1634027014}
   m_Layer: 0
   m_Name: Extra Sidewalk
   m_TagString: Road
@@ -21672,28 +21487,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 583090562}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1634027014
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1634027012}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3802287317836583566, guid: 723ed68a96b53e440b4d910850c66168, type: 3}
 --- !u!23 &1634027015
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22343,7 +22136,6 @@ GameObject:
   - component: {fileID: 1726972136}
   - component: {fileID: 1726972139}
   - component: {fileID: 1726972138}
-  - component: {fileID: 1726972137}
   m_Layer: 0
   m_Name: Sidewalk 2
   m_TagString: Road
@@ -22366,28 +22158,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2101305657}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1726972137
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1726972135}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -4253959050453086699, guid: 0b54b4d44f577474fb5a4bd8afd6c4da, type: 3}
 --- !u!23 &1726972138
 MeshRenderer:
   m_ObjectHideFlags: 0
