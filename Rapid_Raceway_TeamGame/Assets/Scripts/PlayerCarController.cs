@@ -35,6 +35,8 @@ public class PlayerCarController : MonoBehaviour
             // Keeps car from jumping mid-air
             isOnRoad = false;
             playerCarRb.AddForce(Vector3.up * jumpPower, ForceMode.Impulse);
+            // Ways to move a Rigidbody: .AddForce or Rigidbody.Translate
+            // Should use Rigidbody.Move, keeps it consistent
         }
 
         horizontalInput = Input.GetAxis("Horizontal");
